@@ -32,10 +32,5 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 ## License
 This project is licensed under the MIT License.
 
-
-
-Author: Kartikey Baghel
-
-GitHub: piyushk789
-
-Email: kartikeybaghel@hotmail.com
+Author: Harendra Tyagi
+GitHub: Harendratyagi18
