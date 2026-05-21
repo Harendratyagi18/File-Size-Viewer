@@ -1,6 +1,6 @@
-# Author: Kartikey Baghel
-# Email : kartikey.software@gmail.com
-# Github: https://github.com/piyushk789/SizeScanner
+# Author: Harendra Tyagi
+# Email : harendra.tyagi_cs22@gla.ac.in
+# Github: https://github.com/Harendratyagi18/File-Size-Viewer
 
 import os
 import threading
