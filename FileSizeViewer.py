@@ -1,6 +1,6 @@
-# Author: Kartikey Baghel
-# E-mail: kartikeybaghel@hotmail.com
-# Github: https://github.com/piyushk789
+# Author: Harendra Tyagi
+# Email : harendra.tyagi_cs22@gla.ac.in
+# Github: https://github.com/Harendratyagi18/File-Size-Viewer
 
 import os
 from tkinter import filedialog, messagebox, ttk
